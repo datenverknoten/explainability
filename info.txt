@@ -1,0 +1,2 @@
+This is a repository for my blog https://www.datenverknoten.de
+Please see the respective Link in the notebooks or scripts for more information.
