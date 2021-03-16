@@ -1,2 +1,4 @@
 This is a repository for my blog https://www.datenverknoten.de
-Please see the respective Link in the notebooks or scripts for more information on the files.
+Please see the links in the notebooks or scripts for more information on the files.
+
+The corresponding article can be found here: https://datenverknoten.de/?p=212
